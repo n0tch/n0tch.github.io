@@ -163,6 +163,34 @@ body {
 }
 
 .borda{
-  border-style: solid;
   margin-bottom: 5%;
+}
+
+.pagination li {
+  display:inline-block;
+  padding:5px;
+}
+
+.fb{
+  color: #455e8a;
+}
+
+.fb:hover{
+  color: #455e8a;
+}
+
+.gh{
+  color: #000000;
+}
+
+.gh:hover{
+  color: #000000;
+}
+
+.email{
+  color:#b22121;
+}
+
+.email:hover{
+  color:#b22121;
 }
