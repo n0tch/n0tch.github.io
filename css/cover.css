@@ -161,3 +161,8 @@ body {
     width: 700px;
   }
 }
+
+.borda{
+  border-style: solid;
+  margin-bottom: 5%;
+}
