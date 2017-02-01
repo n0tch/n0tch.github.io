@@ -194,3 +194,8 @@ body {
 .email:hover{
   color:#b22121;
 }
+
+.page-header{
+  margin-bottom: 0px;
+  border-bottom: black;
+}
